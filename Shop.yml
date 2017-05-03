@@ -367,7 +367,7 @@ shop:
     Name: Prismarine Shard
   prismarinecrystal:
     Layout: layout_shop
-    Item: 'PRISMARINE_CRYSTAL:0'
+    Item: 'PRISMARINE_CRYSTALS:0'
     Worth: '8'
     Name: Prismarine Crystal
   rabbitfoot:
@@ -683,7 +683,7 @@ shop:
     Name: Purple Dye
   cyandye:
     Layout: layout_shop
-    Item: 'INK_DACK:6'
+    Item: 'INK_SACK:6'
     Worth: '-1'
     Name: Cyan Dye
   lightgraydye:
