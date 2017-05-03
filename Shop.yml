@@ -146,12 +146,12 @@ shop:
     Worth: '3'
     Name: Flint
   waterbucket:
-    Layout: layout_shop
+    Layout: layout_shop_nostack
     Item: 'WATER_BUCKET:0'
     Worth: '48'
     Name: Water Bucket
   lavabucket:
-    Layout: layout_shop
+    Layout: layout_shop_nostack
     Item: 'LAVA_BUCKET:0'
     Worth: '48'
     Name: Lava Bucket
@@ -222,7 +222,7 @@ shop:
     Name: Raw Porkchop
   grilledpork:
     Layout: layout_shop
-    Item: 'PORK:1'
+    Item: 'GRILLED_PORK:0'
     Worth: '6'
     Name: Cooked Porkchop
   rawfish:
@@ -657,14 +657,14 @@ shop:
     Worth: '3'
     Name: Ink Sack
   rosered:
-    Layout: layout_shop
+    Layout: layout_shop_buyonly
     Item: 'INK_SACK:1'
-    Worth: '-1'
+    Worth: '6'
     Name: Rose Red
   cactusgreen:
-    Layout: layout_shop
+    Layout: layout_shop_buyonly
     Item: 'INK_SACK:2'
-    Worth: '-1'
+    Worth: '6'
     Name: Cactus Green
   cocoabeans:
     Layout: layout_shop
@@ -677,59 +677,59 @@ shop:
     Worth: '3'
     Name: Lapis Lazuli
   purpledye:
-    Layout: layout_shop
+    Layout: layout_shop_buyonly
     Item: 'INK_SACK:5'
-    Worth: '-1'
+    Worth: '6'
     Name: Purple Dye
   cyandye:
-    Layout: layout_shop
+    Layout: layout_shop_buyonly
     Item: 'INK_SACK:6'
-    Worth: '-1'
+    Worth: '6'
     Name: Cyan Dye
   lightgraydye:
-    Layout: layout_shop
+    Layout: layout_shop_buyonly
     Item: 'INK_SACK:7'
-    Worth: '-1'
+    Worth: '6'
     Name: Light Gray Dye
   graydye:
-    Layout: layout_shop
+    Layout: layout_shop_buyonly
     Item: 'INK_SACK:8'
-    Worth: '-1'
+    Worth: '6'
     Name: Gray Dye
   pinkdye:
-    Layout: layout_shop
+    Layout: layout_shop_buyonly
     Item: 'INK_SACK:9'
-    Worth: '-1'
+    Worth: '6'
     Name: Pink Dye
   limedye:
-    Layout: layout_shop
+    Layout: layout_shop_buyonly
     Item: 'INK_SACK:10'
-    Worth: '-1'
+    Worth: '6'
     Name: Lime Dye
   yellowdye:
-    Layout: layout_shop
+    Layout: layout_shop_buyonly
     Item: 'INK_SACK:11'
-    Worth: '-1'
+    Worth: '6'
     Name: Yellow Dye
   lightbluedye:
-    Layout: layout_shop
+    Layout: layout_shop_buyonly
     Item: 'INK_SACK:12'
-    Worth: '-1'
+    Worth: '6'
     Name: Light Blue Dye
   magentadye:
-    Layout: layout_shop
+    Layout: layout_shop_buyonly
     Item: 'INK_SACK:13'
-    Worth: '-1'
+    Worth: '6'
     Name: Magenta Dye
   orangedye:
-    Layout: layout_shop
+    Layout: layout_shop_buyonly
     Item: 'INK_SACK:14'
-    Worth: '-1'
+    Worth: '6'
     Name: Orange Dye
   bonemeal:
-    Layout: layout_shop
+    Layout: layout_shop_buyonly
     Item: 'INK_SACK:15'
-    Worth: '-1'
+    Worth: '6'
     Name: Bone Meal
   goldrecord:
     Layout: layout_shop
