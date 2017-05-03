@@ -15,7 +15,7 @@ shop:
     Item: 'GRASS:0'
     Worth: '1'
     Name: Grass Block
-   dirt:
+  dirt:
     Layout: layout_shop
     Item: 'DIRT:0'
     Worth: '1'
