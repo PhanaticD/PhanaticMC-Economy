@@ -60,7 +60,7 @@ worth:
   redstone: #+witch drop
     '0': 3
   glowstonedust: #+witch drop  
-    '0': 8
+    '0': 2
   snowball: #+snowgolem drop
     '0': 1
   clay:
@@ -85,9 +85,9 @@ worth:
 #
 ##### start of mob drops
   pork:
-    '0': 4
+    '0': 1
   grilledpork: #smelted from pork
-    '0': 6
+    '0': 2
   rawfish:
     '0': 3
     '1': 4
@@ -101,19 +101,19 @@ worth:
   cookedrabbit: #smelted from rabbit
     '0': 3
   rawbeef:
-    '0': 5
+    '0': 2
   cookedbeef: #smelted from beef
-    '0': 7
-  rawchicken:
     '0': 3
+  rawchicken:
+    '0': 1
   cookedchicken: #smelted from chicken
-    '0': 4
+    '0': 2
   wool:
     '0': 6
   mutton:
-    '0': 3
+    '0': 1
   cookedmutton: #smelted from mutton
-    '0': 4
+    '0': 2
   string:
     '0': 2
   feather:
@@ -121,15 +121,15 @@ worth:
   sulphur:
     '0': 11
   leather:
-    '0': 5
+    '0': 3
   slimeball:
     '0': 11
   egg:
     '0': 1
   bone:
-    '0': 5
+    '0': 4
   rottenflesh:
-    '0': 1
+    '0': 4
   enderpearl:
     '0': 15
   blazerod:
@@ -258,29 +258,29 @@ worth:
     '14': -1 #orange dye
     '15': -1 #bone meal
   goldrecord:
-    '0': 132
+    '0': 25
   greenrecord:
-    '0': 132
+    '0': 25
   record3:
-    '0': 132
+    '0': 25
   record4:
-    '0': 132
+    '0': 25
   record5:
-    '0': 132
+    '0': 25
   record6:
-    '0': 132
+    '0': 25
   record7:
-    '0': 132
+    '0': 25
   record8:
-    '0': 132
+    '0': 25
   record9:
-    '0': 132
+    '0': 25
   record10:
-    '0': 132
+    '0': 25
   record11:
-    '0': 132
+    '0': 25
   record12:        
-    '0': 132
+    '0': 20
   hopper: # hopper non-craftable
     '0': 500
   spawner: #dont appear to actually work with /sell but here reference
