@@ -163,7 +163,7 @@ shop:
   glowstonedust:
     Layout: layout_shop
     Item: 'GLOWSTONE_DUST:0'
-    Worth: '8'
+    Worth: '2'
     Name: Glowstone Dust
   snowball:
     Layout: layout_shop
@@ -218,12 +218,12 @@ shop:
   pork:
     Layout: layout_shop
     Item: 'PORK:0'
-    Worth: '4'
+    Worth: '1'
     Name: Raw Porkchop
   grilledpork:
     Layout: layout_shop
     Item: 'GRILLED_PORK:0'
-    Worth: '6'
+    Worth: '2'
     Name: Cooked Porkchop
   rawfish:
     Layout: layout_shop
@@ -268,22 +268,22 @@ shop:
   rawbeef:
     Layout: layout_shop
     Item: 'RAW_BEEF:0'
-    Worth: '5'
+    Worth: '2'
     Name: Raw Beef
   cookedbeef:
     Layout: layout_shop
     Item: 'COOKED_BEEF:0'
-    Worth: '7'
+    Worth: '3'
     Name: Steak
   rawchicken:
     Layout: layout_shop
     Item: 'RAW_CHICKEN:0'
-    Worth: '3'
+    Worth: '1'
     Name: Raw Chicken
   cookedchicken:
     Layout: layout_shop
     Item: 'COOKED_CHICKEN:0'
-    Worth: '4'
+    Worth: '2'
     Name: Cooked Chicken
   wool:
     Layout: layout_shop
@@ -293,12 +293,12 @@ shop:
   mutton:
     Layout: layout_shop
     Item: 'MUTTON:0'
-    Worth: '3'
+    Worth: '1'
     Name: Raw Mutton
   cookedmutton:
     Layout: layout_shop
     Item: 'COOKED_MUTTON:0'
-    Worth: '4'
+    Worth: '2'
     Name: Cooked Mutton
   string:
     Layout: layout_shop
@@ -318,7 +318,7 @@ shop:
   leather:
     Layout: layout_shop
     Item: 'LEATHER:0'
-    Worth: '5'
+    Worth: '3'
     Name: Leather
   slimeball:
     Layout: layout_shop
@@ -333,12 +333,12 @@ shop:
   bone:
     Layout: layout_shop
     Item: 'BONE:0'
-    Worth: '5'
+    Worth: '4'
     Name: Bone
   rottenflesh:
     Layout: layout_shop
     Item: 'ROTTEN_FLESH:0'
-    Worth: '1'
+    Worth: '4'
     Name: Rotten Flesh
   enderpearl:
     Layout: layout_shop
@@ -734,62 +734,62 @@ shop:
   goldrecord:
     Layout: layout_shop
     Item: 'GOLD_RECORD:0'
-    Worth: '132'
+    Worth: '25'
     Name: Music Disk 13
   greenrecord:
     Layout: layout_shop
     Item: 'GREEN_RECORD:0'
-    Worth: '132'
+    Worth: '25'
     Name: Music Disc Cat
   record3:
     Layout: layout_shop
     Item: 'RECORD_3:0'
-    Worth: '132'
+    Worth: '25'
     Name: Music Disc Blocks
   record4:
     Layout: layout_shop
     Item: 'RECORD_4:0'
-    Worth: '132'
+    Worth: '25'
     Name: Music Disc Chirp
   record5:
     Layout: layout_shop
     Item: 'RECORD_5:0'
-    Worth: '132'
+    Worth: '25'
     Name: Music Disc Far
   record6:
     Layout: layout_shop
     Item: 'RECORD_6:0'
-    Worth: '132'
+    Worth: '25'
     Name: Music Disc Mall
   record7:
     Layout: layout_shop
     Item: 'RECORD_7:0'
-    Worth: '132'
+    Worth: '25'
     Name: Music Disc Mellohi
   record8:
     Layout: layout_shop
     Item: 'RECORD_8:0'
-    Worth: '132'
+    Worth: '25'
     Name: Music Disc Stal
   record9:
     Layout: layout_shop
     Item: 'RECORD_9:0'
-    Worth: '132'
+    Worth: '25'
     Name: Music Disc Strad
   record10:
     Layout: layout_shop
     Item: 'RECORD_10:0'
-    Worth: '132'
+    Worth: '25'
     Name: Music Disc Ward
   record11:
     Layout: layout_shop
     Item: 'RECORD_11:0'
-    Worth: '132'
+    Worth: '25'
     Name: Music Disc 11
   record12:
     Layout: layout_shop
     Item: 'RECORD_12:0'
-    Worth: '132'
+    Worth: '25'
     Name: Music Disc Wait
   hopper:
     Layout: layout_shop
