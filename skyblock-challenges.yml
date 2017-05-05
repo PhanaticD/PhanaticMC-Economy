@@ -57,10 +57,10 @@
 challenges:
   # Challenge levels - list as many as you like. If a challenge's level is '' it can
   # be done anytime. You cannot name a challenge the same as a level.
-  levels: 'Novice Competent Expert Advanced Elite'
+  levels: 'Builder Basic_Farmer Advanced_Farmer Basic_Collector Advanced_Collector Skyblocker'
     
   # The number of undone tasks that can be left on a level before unlocking next level
-  waiveramount: 1
+  waiveramount: 0
   
   # Free levels - which levels above should be auto done when reached, therefore unlocking next level.
   # Example:
@@ -73,50 +73,74 @@ challenges:
   # The subname should correspond to the levels listed above
   # Note that there is no section for the first level as it is automatically unlocked
   levelUnlock:
-    Competent:
+    Builder:
       # What additional message to send player
-      message: 'Congratulations - you unlocked the &9Competent level!'
-      rewardDesc: 'A diamond!'
-      itemReward: 'DIAMOND:1'
-      moneyReward: 100
-      expReward: 100
+      message: 'Congratulations - you unlocked the &9Builder!'
+      rewardDesc: ''
+      itemReward: ''
+      moneyReward: 
+      expReward: 
       # List permissions separated by spaces
       permissionReward: ''
       # Commands to run on this player. Use [player] for their name.
       commands:
       #- kit tools [player]
       #- some other command
-    Expert:
+    Basic_Farmer:
       # What additional message to send player
-      message: 'Congratulations - you unlocked the &aExpert level!'
-      rewardDesc: '3 diamonds!'
-      itemReward: 'DIAMOND:3'
-      moneyReward: 100
-      expReward: 100
+      message: 'Congratulations - you unlocked the &aBasic_Farmer!'
+      rewardDesc: ''
+      itemReward: ''
+      moneyReward: 
+      expReward: 
       permissionReward: ''
       # Commands to run on this player. Use [player] for their name.
       commands:
       #- kit tools [player]
       #- some other command
-    Advanced:
+    Advanced_Farmer:
       # What additional message to send player
-      message: 'Congratulations - you unlocked the &bAdvanced level!'
-      rewardDesc: '5 diamonds!'
-      itemReward: 'DIAMOND:5'
-      moneyReward: 100
-      expReward: 100
+      message: 'Congratulations - you unlocked the &bAdvanced_Farmer!'
+      rewardDesc: ''
+      itemReward: ''
+      moneyReward: 
+      expReward: 
       permissionReward: ''
       # Commands to run on this player. Use [player] for their name.
       commands:
       #- kit tools [player]
       #- some other command
-    Elite:
+    Basic_Collector:
       # What additional message to send player
-      message: 'Congratulations - you unlocked the &dElite level!'
-      rewardDesc: '7 diamonds!'
-      itemReward: 'DIAMOND:7'
-      moneyReward: 100
-      expReward: 100
+      message: 'Congratulations - you unlocked the &dBasic_Collector!'
+      rewardDesc: ''
+      itemReward: ''
+      moneyReward: 
+      expReward: 
+      permissionReward: ''
+      # Commands to run on this player. Use [player] for their name.
+      commands:
+      #- kit tools [player]
+      #- some other command
+    Advanced_Collector:
+      # What additional message to send player
+      message: 'Congratulations - you unlocked the &dAdvanced_Collector!'
+      rewardDesc: ''
+      itemReward: ''
+      moneyReward: 
+      expReward: 
+      permissionReward: ''
+      # Commands to run on this player. Use [player] for their name.
+      commands:
+      #- kit tools [player]
+      #- some other command
+    Skyblocker:
+      # What additional message to send player
+      message: 'Congratulations - you unlocked the &dSkyblocker!'
+      rewardDesc: ''
+      itemReward: ''
+      moneyReward: 
+      expReward: 
       permissionReward: ''
       # Commands to run on this player. Use [player] for their name.
       commands:
