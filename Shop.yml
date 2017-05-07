@@ -55,12 +55,12 @@ shop:
   sponge:
     Layout: layout_shop
     Item: 'SPONGE:0'
-    Worth: '32'
+    Worth: '24'
     Name: Sponge
   wetsponge:
     Layout: layout_shop
     Item: 'SPONGE:1'
-    Worth: '32'
+    Worth: '16'
     Name: Wet Sponge
   ice:
     Layout: layout_shop
@@ -190,7 +190,7 @@ shop:
   obsidian:
     Layout: layout_shop
     Item: 'OBSIDIAN:0'
-    Worth: '48'
+    Worth: '32'
     Name: Obsidian
   coalblock:
     Layout: layout_shop
@@ -227,6 +227,11 @@ shop:
     Item: 'LAPIS_BLOCK:0'
     Worth: '27'
     Name: Lapis Lazuli Block
+  quartzblock:
+    Layout: layout_shop
+    Item: 'QUARTZ_BLOCK:0'
+    Worth: '28'
+    Name: Quartz Block
   pork:
     Layout: layout_shop
     Item: 'PORK:0'
@@ -395,7 +400,7 @@ shop:
   bakedpotato:
     Layout: layout_shop
     Item: 'BAKED_POTATO:0'
-    Worth: '3'
+    Worth: '4'
     Name: Baked Potato
   carrotitem:
     Layout: layout_shop
@@ -405,13 +410,18 @@ shop:
   chorusfruit:
     Layout: layout_shop
     Item: 'CHORUS_FRUIT:0'
-    Worth: '4'
+    Worth: '1'
     Name: Chorus Fruit
   chorusfruitpopped:
     Layout: layout_shop
     Item: 'CHORUS_FRUIT_POPPED:0'
-    Worth: '6'
+    Worth: '4'
     Name: Popped Chorus Fruit
+  chorusflower:
+    Layout: layout_shop
+    Item: 'CHORUS_FLOWER:0'
+    Worth: '6'
+    Name: Chorus Flower
   sapling:
     Layout: layout_shop
     Item: 'SAPLING:0'
@@ -581,12 +591,12 @@ shop:
   brownmushroom:
     Layout: layout_shop
     Item: 'BROWN_MUSHROOM:0'
-    Worth: '1'
+    Worth: '4'
     Name: Brown Mushroom
   redmushroom:
     Layout: layout_shop
     Item: 'RED_MUSHROOM:0'
-    Worth: '1'
+    Worth: '4'
     Name: Red Mushroom
   cactus:
     Layout: layout_shop
@@ -601,27 +611,27 @@ shop:
   pumpkin:
     Layout: layout_shop
     Item: 'PUMPKIN:0'
-    Worth: '16'
+    Worth: '4'
     Name: Pumpkin
   hugemushroom1:
     Layout: layout_shop
     Item: 'HUGE_MUSHROOM_1:0'
-    Worth: '2'
+    Worth: '8'
     Name: Brown Mushroom Block
   hugemushroom2:
     Layout: layout_shop
     Item: 'HUGE_MUSHROOM_2:0'
-    Worth: '2'
+    Worth: '8'
     Name: Red Mushroom Block
   melonseeds:
     Layout: layout_shop
     Item: 'MELON_SEEDS:0'
-    Worth: '3'
+    Worth: '4'
     Name: Melon Seeds
   melon:
     Layout: layout_shop
     Item: 'MELON:0'
-    Worth: '3'
+    Worth: '1'
     Name: Melon Slice
   vine:
     Layout: layout_shop
@@ -633,15 +643,10 @@ shop:
     Item: 'SUGAR_CANE:0'
     Worth: '3'
     Name: Sugar Cane
-  chorusflower:
-    Layout: layout_shop
-    Item: 'CHORUS_FLOWER:0'
-    Worth: '15'
-    Name: Chorus Flower
   netherstalk:
     Layout: layout_shop
     Item: 'NETHER_STALK:0'
-    Worth: '16'
+    Worth: '4'
     Name: Nether Wart
   seeds:
     Layout: layout_shop
