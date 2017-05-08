@@ -18,7 +18,7 @@ worth:
     '0': 24
     '1': 16
   ice:
-    '0': 8
+    '0': 4
   soulsand:
     '0': 4
   mycel:
@@ -28,7 +28,7 @@ worth:
   enderstone:
     '0': 4
   packedice:
-    '0': 20
+    '0': 8
   coal: #charcoal smeltable from logs
     '0': 4
     '1': 8
