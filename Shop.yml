@@ -195,7 +195,7 @@ shop:
   coalblock:
     Layout: layout_shop
     Item: 'COAL_BLOCK:0'
-    Worth: '90'
+    Worth: '36'
     Name: Block of Coal
   ironblock:
     Layout: layout_shop
