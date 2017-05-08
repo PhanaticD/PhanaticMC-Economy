@@ -65,7 +65,7 @@ shop:
   ice:
     Layout: layout_shop
     Item: 'ICE:0'
-    Worth: '8'
+    Worth: '4'
     Name: Ice
   soulsand:
     Layout: layout_shop
@@ -90,7 +90,7 @@ shop:
   packedice:
     Layout: layout_shop
     Item: 'PACKED_ICE:0'
-    Worth: '20'
+    Worth: '8'
     Name: Packed Ice
   coal:
     Layout: layout_shop
