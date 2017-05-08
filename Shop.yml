@@ -606,7 +606,7 @@ shop:
   pumpkinseeds:
     Layout: layout_shop
     Item: 'PUMPKIN_SEEDS:0'
-    Worth: '4'
+    Worth: '1'
     Name: Pumpkin Seeds
   pumpkin:
     Layout: layout_shop
@@ -626,7 +626,7 @@ shop:
   melonseeds:
     Layout: layout_shop
     Item: 'MELON_SEEDS:0'
-    Worth: '4'
+    Worth: '1'
     Name: Melon Seeds
   melon:
     Layout: layout_shop
