@@ -39,7 +39,7 @@ worth:
     '0': 2
   netherrack:
     '0': 1
-  netherbrick: #smelted from netherrack
+  405: #nether brick item, smelted from netherrack
     '0': 1
   ironingot: #smelted from ore(ore is not sellable) also iron golem drop
     '0': 18
@@ -149,11 +149,11 @@ worth:
 ##### end of mob drops
 #
 ##### start of growable items
-  potato:
+  392: #potato
     '0': 1
   bakedpotato: #smelted from potato
     '0': 4
-  carrot: #+rare zombie drop
+  391: #carrot, +rare zombie drop
     '0': 1
   chorusfruit:
     '0': 1
@@ -175,8 +175,8 @@ worth:
     '3': 6
     '4': 6
     '5': 6
-  acacialog:
-    '0': 6
+  162: #log2
+    '0': 6 #acacia log
     '1': 6
   leaves:
     '0': 1
@@ -185,8 +185,8 @@ worth:
     '3': 1
     '4': 1
     '5': 1
-  acacialeaves:
-    '0': 1
+  161: #leaves2
+    '0': 1 #acacia leaves
     '1': 1
   apple:
     '0': 2
@@ -202,14 +202,14 @@ worth:
     '6': 2
     '7': 2
     '8': 2
-  sunflower:
+  175: #doubleplant
     '0': 3
     '1': 3
     '4': 1
     '5': 1
-  brownmushroom:
+  39: #brown mushroom
     '0': 4
-  redmushroom:
+  40: #red mushroom
     '0': 4
   cactus:
     '0': 2
@@ -217,9 +217,9 @@ worth:
     '0': 1
   pumpkin:
     '0': 4
-  99: #brown_mushroom_block
+  99: #brown mushroom block
     '0': 8
-  100: #red_mushroom_block
+  100: #red mushroom block
     '0': 8
   melonseeds:
     '0': 1
