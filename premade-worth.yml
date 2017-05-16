@@ -217,9 +217,9 @@ worth:
     '0': 1
   pumpkin:
     '0': 4
-  brownmushroomblock:
+  brown_mushroom_block:
     '0': 8
-  redmushroomblock:
+  red_mushroom_block:
     '0': 8
   melonseeds:
     '0': 1
