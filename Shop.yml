@@ -380,12 +380,12 @@ shop:
   prismarineshard:
     Layout: layout_shop
     Item: 'PRISMARINE_SHARD:0'
-    Worth: '5'
+    Worth: '1'
     Name: Prismarine Shard
   prismarinecrystal:
     Layout: layout_shop
     Item: 'PRISMARINE_CRYSTALS:0'
-    Worth: '8'
+    Worth: '1'
     Name: Prismarine Crystal
   rabbitfoot:
     Layout: layout_shop
