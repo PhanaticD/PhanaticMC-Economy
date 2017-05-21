@@ -392,6 +392,11 @@ shop:
     Item: 'RABBIT_FOOT:0'
     Worth: '22'
     Name: Rabbit Foot
+  arrow:
+    Layout: layout_shop
+    Item: 'ARROW:0'
+    Worth: '1'
+    Name: Arrow
   potatoitem:
     Layout: layout_shop
     Item: 'POTATO_ITEM:0'
