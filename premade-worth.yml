@@ -146,6 +146,8 @@ worth:
     '0': 3
   rabbitfoot:
     '0': 22
+  arrow:
+    '0': 1
 ##### end of mob drops
 #
 ##### start of growable items
