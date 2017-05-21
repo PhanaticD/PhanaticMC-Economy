@@ -130,7 +130,7 @@ shop:
   ironingot:
     Layout: layout_shop
     Item: 'IRON_INGOT:0'
-    Worth: '18'
+    Worth: '25'
     Name: Iron Ingot
   goldingot:
     Layout: layout_shop
@@ -145,7 +145,7 @@ shop:
   emerald:
     Layout: layout_shop
     Item: 'EMERALD:0'
-    Worth: '35'
+    Worth: '20'
     Name: Emerald
   quartz:
     Layout: layout_shop
@@ -200,7 +200,7 @@ shop:
   ironblock:
     Layout: layout_shop
     Item: 'IRON_BLOCK:0'
-    Worth: '162'
+    Worth: '225'
     Name: Iron Block
   goldblock:
     Layout: layout_shop
@@ -215,7 +215,7 @@ shop:
   emeraldblock:
     Layout: layout_shop
     Item: 'EMERALD_BLOCK:0'
-    Worth: '315'
+    Worth: '180'
     Name: Emerald Block
   redstoneblock:
     Layout: layout_shop
@@ -235,127 +235,127 @@ shop:
   pork:
     Layout: layout_shop
     Item: 'PORK:0'
-    Worth: '1'
+    Worth: '2'
     Name: Raw Porkchop
   grilledpork:
     Layout: layout_shop
     Item: 'GRILLED_PORK:0'
-    Worth: '2'
+    Worth: '6'
     Name: Cooked Porkchop
   rawfish:
     Layout: layout_shop
     Item: 'RAW_FISH:0'
-    Worth: '3'
+    Worth: '6'
     Name: Raw Fish
   salmon:
     Layout: layout_shop
     Item: 'RAW_FISH:1'
-    Worth: '4'
+    Worth: '8'
     Name: Raw Salmon
   clownfish:
     Layout: layout_shop
     Item: 'RAW_FISH:2'
-    Worth: '2'
+    Worth: '4'
     Name: Clownfish
   pufferfish:
     Layout: layout_shop
     Item: 'RAW_FISH:3'
-    Worth: '6'
+    Worth: '12'
     Name: Pufferfish
   cookedfish:
     Layout: layout_shop
     Item: 'COOKED_FISH:0'
-    Worth: '5'
+    Worth: '18'
     Name: Cooked Fish
   cookedsalmon:
     Layout: layout_shop
     Item: 'COOKED_FISH:1'
-    Worth: '5'
+    Worth: '18'
     Name: Cooked Salmon
   rabbit:
     Layout: layout_shop
     Item: 'RABBIT:0'
-    Worth: '2'
+    Worth: '4'
     Name: Rabbit
   cookedrabbit:
     Layout: layout_shop
     Item: 'COOKED_RABBIT:0'
-    Worth: '3'
+    Worth: '12'
     Name: Cooked Rabbit
   rawbeef:
     Layout: layout_shop
     Item: 'RAW_BEEF:0'
-    Worth: '2'
+    Worth: '4'
     Name: Raw Beef
   cookedbeef:
     Layout: layout_shop
     Item: 'COOKED_BEEF:0'
-    Worth: '3'
+    Worth: '12'
     Name: Steak
   rawchicken:
     Layout: layout_shop
     Item: 'RAW_CHICKEN:0'
-    Worth: '1'
+    Worth: '2'
     Name: Raw Chicken
   cookedchicken:
     Layout: layout_shop
     Item: 'COOKED_CHICKEN:0'
-    Worth: '2'
+    Worth: '6'
     Name: Cooked Chicken
   wool:
     Layout: layout_shop
     Item: 'WOOL:0'
-    Worth: '6'
+    Worth: '12'
     Name: White Wool
   mutton:
     Layout: layout_shop
     Item: 'MUTTON:0'
-    Worth: '1'
+    Worth: '2'
     Name: Raw Mutton
   cookedmutton:
     Layout: layout_shop
     Item: 'COOKED_MUTTON:0'
-    Worth: '2'
+    Worth: '6'
     Name: Cooked Mutton
   string:
     Layout: layout_shop
     Item: 'STRING:0'
-    Worth: '2'
+    Worth: '10'
     Name: String
   feather:
     Layout: layout_shop
     Item: 'FEATHER:0'
-    Worth: '1'
+    Worth: '2'
     Name: Feather
   sulphur:
     Layout: layout_shop
     Item: 'SULPHUR:0'
-    Worth: '11'
+    Worth: '15'
     Name: Gunpowder
   leather:
     Layout: layout_shop
     Item: 'LEATHER:0'
-    Worth: '3'
+    Worth: '6'
     Name: Leather
   slimeball:
     Layout: layout_shop
     Item: 'SLIME_BALL:0'
-    Worth: '11'
+    Worth: '15'
     Name: Slimeball
   egg:
     Layout: layout_shop
     Item: 'EGG:0'
-    Worth: '1'
+    Worth: '2'
     Name: Egg
   bone:
     Layout: layout_shop
     Item: 'BONE:0'
-    Worth: '4'
+    Worth: '8'
     Name: Bone
   rottenflesh:
     Layout: layout_shop
     Item: 'ROTTEN_FLESH:0'
-    Worth: '4'
+    Worth: '8'
     Name: Rotten Flesh
   enderpearl:
     Layout: layout_shop
@@ -375,17 +375,17 @@ shop:
   spidereye:
     Layout: layout_shop
     Item: 'SPIDER_EYE:0'
-    Worth: '3'
+    Worth: '6'
     Name: Spider Eye
   prismarineshard:
     Layout: layout_shop
     Item: 'PRISMARINE_SHARD:0'
-    Worth: '1'
+    Worth: '3'
     Name: Prismarine Shard
   prismarinecrystal:
     Layout: layout_shop
     Item: 'PRISMARINE_CRYSTALS:0'
-    Worth: '1'
+    Worth: '3'
     Name: Prismarine Crystal
   rabbitfoot:
     Layout: layout_shop
