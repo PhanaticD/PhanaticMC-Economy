@@ -42,13 +42,13 @@ worth:
   405: #nether brick item, smelted from netherrack
     '0': 1
   ironingot: #smelted from ore(ore is not sellable) also iron golem drop
-    '0': 18
+    '0': 25
   goldingot: #smelted from ore(ore is not sellable) also pigman drop
     '0': 27
   diamond:
     '0': 180
   emerald: #also vindicator drop
-    '0': 35
+    '0': 25
   quartz:
     '0': 7
   flint:
@@ -70,13 +70,13 @@ worth:
   coalblock:
     '0': 36
   ironblock:
-    '0': 162
+    '0': 225
   goldblock:
     '0': 243
   diamondblock:
     '0': 1620
   emeraldblock:
-    '0': 315
+    '0': 225
   redstoneblock:
     '0': 27
   lapisblock:
@@ -87,51 +87,51 @@ worth:
 #
 ##### start of mob drops
   pork:
-    '0': 1
+    '0': 2
   grilledpork: #smelted from pork
-    '0': 2
-  rawfish:
-    '0': 3
-    '1': 4
-    '2': 2
-    '3': 6
-  cookedfish: #smelted from fish
-    '0': 5
-    '1': 5
-  rabbit:
-    '0': 2
-  cookedrabbit: #smelted from rabbit
-    '0': 3
-  rawbeef:
-    '0': 2
-  cookedbeef: #smelted from beef
-    '0': 3
-  rawchicken:
-    '0': 1
-  cookedchicken: #smelted from chicken
-    '0': 2
-  wool:
     '0': 6
+  rawfish:
+    '0': 6
+    '1': 8
+    '2': 4
+    '3': 12
+  cookedfish: #smelted from fish
+    '0': 18
+    '1': 18
+  rabbit:
+    '0': 4
+  cookedrabbit: #smelted from rabbit
+    '0': 12
+  rawbeef:
+    '0': 4
+  cookedbeef: #smelted from beef
+    '0': 12
+  rawchicken:
+    '0': 2
+  cookedchicken: #smelted from chicken
+    '0': 6
+  wool:
+    '0': 12
   mutton:
-    '0': 1
+    '0': 2
   cookedmutton: #smelted from mutton
-    '0': 2
+    '0': 6
   string:
-    '0': 2
+    '0': 4
   feather:
-    '0': 1
+    '0': 2
   sulphur:
-    '0': 11
+    '0': 22
   leather:
-    '0': 3
+    '0': 6
   slimeball:
-    '0': 11
+    '0': 22
   egg:
-    '0': 1
+    '0': 2
   bone:
-    '0': 4
+    '0': 8
   rottenflesh:
-    '0': 4
+    '0': 8
   enderpearl:
     '0': 15
   blazerod:
@@ -139,11 +139,11 @@ worth:
   ghasttear:
     '0': 30
   spidereye:
-    '0': 3
+    '0': 6
   prismarineshard:
-    '0': 1
+    '0': 3
   prismarinecrystals:
-    '0': 1
+    '0': 3
   rabbitfoot:
     '0': 22
 ##### end of mob drops
