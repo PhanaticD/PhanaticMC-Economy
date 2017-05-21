@@ -48,7 +48,7 @@ worth:
   diamond:
     '0': 180
   emerald: #also vindicator drop
-    '0': 25
+    '0': 20
   quartz:
     '0': 7
   flint:
@@ -76,7 +76,7 @@ worth:
   diamondblock:
     '0': 1620
   emeraldblock:
-    '0': 225
+    '0': 180
   redstoneblock:
     '0': 27
   lapisblock:
@@ -117,15 +117,15 @@ worth:
   cookedmutton: #smelted from mutton
     '0': 6
   string:
-    '0': 4
+    '0': 10
   feather:
     '0': 2
   sulphur:
-    '0': 22
+    '0': 15
   leather:
     '0': 6
   slimeball:
-    '0': 22
+    '0': 15
   egg:
     '0': 2
   bone:
