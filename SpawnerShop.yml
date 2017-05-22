@@ -1,0 +1,217 @@
+ShopName: SpawnerShop
+signs:
+  text: '[SpawnerShop]'
+  NeedPermissionToCreateSign: true
+DisplayName: '&9&lSpawner Shop'
+Command: spawnershop
+shop:
+  pig:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:90
+    Worth: '12500'
+    Name: Pig
+  creeper:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:50
+    Worth: '100000'
+    Name: Creeper
+  skeleton:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:51
+    Worth: '23750'
+    Name: Skeleton
+  spider:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:52
+    Worth: '18750'
+    Name: Spider
+  zombie:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:54
+    Worth: '22500'
+    Name: Zombie
+  slime:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:55
+    Worth: '250000'
+    Name: Slime
+  zombiepigman:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:57
+    Worth: '125000'
+    Name: Zombie PigMan
+  enderman:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:58
+    Worth: '81250'
+    Name: Enderman
+  cavespider:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:59
+    Worth: '18750'
+    Name: Cave Spider
+  blaze:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:61
+    Worth: '68750'
+    Name: Blaze
+  guardian:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:68
+    Worth: '18750'
+    Name: Guardian
+  sheep:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:91
+    Worth: '12500'
+    Name: Sheep
+  cow:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:92
+    Worth: '18750'
+    Name: Cow
+  chicken:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:93
+    Worth: '16250'
+    Name: Chicken
+  wolf:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:95
+    Worth: '18750'
+    Name: Wolf
+  villager:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:120
+    Worth: '250000'
+    Name: Villager
+  llama:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:103
+    Worth: '18750'
+    Name: Llama
+  polarbear:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:102
+    Worth: '15000'
+    Name: Polar Bear
+  rabbit:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:101
+    Worth: '15000'
+    Name: Rabbit
+  horse:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:100
+    Worth: '18750'
+    Name: Horse
+  irongolem:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:99
+    Worth: '250000'
+    Name: Iron Golem
+  ocelot:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:98
+    Worth: '12500'
+    Name: Ocelot
+  snowman:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:97
+    Worth: '16250'
+    Name: Snowman
+  mooshroom:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:96
+    Worth: '22500'
+    Name: Mooshroom
+  squid:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:94
+    Worth: '68750'
+    Name: Squid
+  silverfish:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:60
+    Worth: '12500'
+    Name: Silverfish
+  magmacube:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:62
+    Worth: '68750'
+    Name: Magma Cube
+  bat:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:65
+    Worth: '12500'
+    Name: Bat
+  witch:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:66
+    Worth: '81250'
+    Name: Witch
+  endermite:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:67
+    Worth: '12500'
+    Name: Endermite
+  shulker:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:69
+    Worth: '125000'
+    Name: Shulker
+  elderguardian:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:4
+    Worth: '18750'
+    Name: Elder Guardian
+  witherskeleton:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:5
+    Worth: '31250'
+    Name: Wither Skeleton
+  stray:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:6
+    Worth: '26250'
+    Name: Stray
+  husk:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:23
+    Worth: '22500'
+    Name: Husk
+  vindicator:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:36
+    Worth: '125000'
+    Name: Vindicator
+  zombievillager:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:27
+    Worth: '22500'
+    Name: Zombie Villager
+  skeletonhorse:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:28
+    Worth: '23750'
+    Name: Skeleton Horse
+  zombiehorse:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:29
+    Worth: '22500'
+    Name: Zombie Horse
+  donkey:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:31
+    Worth: '18750'
+    Name: Donkey
+  mule:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:32
+    Worth: '18750'
+    Name: Mule
+  ghast:
+    Layout: layout_essgivespawner
+    Item: MOB_SPAWNER:56
+    Worth: '250000'
+    Name: Ghast

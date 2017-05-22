@@ -6,10 +6,9 @@ signs:
   NeedPermissionToCreateSign: true
 shop:
   spawner:
-    RewardType: playercommand
+    RewardType: shop
     PriceType: none
-    Reward:
-    - spawnershop
+    Reward: SpawnerShop
     MenuItem:
     - ID:52
     - amount:1
